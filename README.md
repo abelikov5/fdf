@@ -5,4 +5,4 @@ is a 3D Wireframe Viewer (macOS is only supported).
 
 to test simple clone repo, run Make to compile program. Than uploud valid ".fdf" file, as following:
 
-./fdf /common_filles/fdf/test_maps
+./fdf /common_filles/fdf/test_maps/42.fdf
